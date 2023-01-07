@@ -44,7 +44,7 @@
                 @endif
                 <hr>
                 <br>
-                <a href="https://github.com/endjiansyah/supply-chain-meuble/blob/main/README.md">readme for login</a>
+                <a href="https://github.com/endjiansyah/supply-chain-meuble/blob/main/README.md" class="text-blue-600 text-sm">readme for login</a>
             </form>
         </div>
     </div>
