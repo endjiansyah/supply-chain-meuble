@@ -1,7 +1,7 @@
 <div class="pt-24">
     <div class="sm:mx-auto sm:w-full sm:max-w-md">
         <h2 class="mt-6 text-3xl font-extrabold text-center text-gray-900 leading-9">
-            Login SCM1s
+            Login SCM
         </h2>
         
     </div>
@@ -42,6 +42,9 @@
                 @if ($message = Session::get('error'))
                     <span class="text-center text-red-600 font-bold">{{$message}}</span>
                 @endif
+                <hr>
+                <br>
+                <a href="https://github.com/endjiansyah/supply-chain-meuble/blob/main/README.md">readme for login</a>
             </form>
         </div>
     </div>
