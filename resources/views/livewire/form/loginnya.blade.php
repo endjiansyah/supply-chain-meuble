@@ -1,7 +1,7 @@
 <div class="pt-24">
     <div class="sm:mx-auto sm:w-full sm:max-w-md">
         <h2 class="mt-6 text-3xl font-extrabold text-center text-gray-900 leading-9">
-            Login SCM
+            Login SCM1s
         </h2>
         
     </div>
