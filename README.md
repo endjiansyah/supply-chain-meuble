@@ -1,7 +1,7 @@
 <h2>login :</h2> 
 email    : tamu@g.c <br>
 role     : <b>admin</b> <br>
-password : hilih<br>
+password : hilih <br>
 
 email    : gudang@g.c<br>
 role     : <b>gudang</b> <br>
